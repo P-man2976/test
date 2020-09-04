@@ -1,0 +1,4 @@
+﻿  DrawPixel.cpp
+C:\Users\ikmy1\source\repos\test2\test\DrawPixel.cpp(25,15): warning C4305: '初期化中': 'int' から 'char' へ切り詰めます。
+C:\Users\ikmy1\source\repos\test2\test\DrawPixel.cpp(25,11): warning C4309: '初期化中': 定数値が切り捨てられました。
+  test.vcxproj -> C:\Users\ikmy1\source\repos\test2\test\x64\Debug\test.exe
